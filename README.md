@@ -1,4 +1,4 @@
-# TD-Tutorials
+# TouchDesigner Tutorials
  TouchDesigner Tutorial Example Files
  
 Find all tutorials here: https://www.simonaa.media/tutorials-articles
