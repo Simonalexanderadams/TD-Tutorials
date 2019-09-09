@@ -3,7 +3,7 @@
  
 Find all tutorials here: https://www.simonaa.media/tutorials-articles
 
-2019-05-12 - Noise Displacement in TouchDesigne: https://www.simonaa.media/tutorials/noisedisplacement
+2019-05-12 - Noise Displacement in TouchDesigner: https://www.simonaa.media/tutorials/noisedisplacement
 
 2019-05-30 - Instancing Geometry in TouchDesigner: https://www.simonaa.media/tutorials/instancing
 
